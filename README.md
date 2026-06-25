@@ -11,6 +11,7 @@ This project implements a local Retrieval-Augmented Generation (RAG) pipeline fo
 - Semantic retrieval
 - Local LLM generation with Ollama and Llama 3.2 1B
 - Term-based context filtering for better answers
+- Local RAG pipeline without cloud APIs
 
 ## Tech Stack
 
