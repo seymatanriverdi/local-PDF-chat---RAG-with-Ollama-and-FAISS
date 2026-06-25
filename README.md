@@ -69,3 +69,11 @@ Pull the Ollama model:
 
 Run the app:
     python pdf_chat.py
+
+Place your PDF inside the **data/** folder.
+Example:
+data/
+    your_document.pdf
+Then update this line in `pdf_chat.py`:
+```python
+PDF_PATH = BASE_DIR / "data" / "your_document.pdf"
