@@ -41,7 +41,7 @@ PDF
     - `requirements.txt`
     - `README.md`
     - `data/`
-    -     └──put_your_pdf_here.txt
+        - `put_your_pdf_here.txt`
 
 
 ```text
