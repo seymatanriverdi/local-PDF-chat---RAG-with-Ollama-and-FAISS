@@ -33,6 +33,7 @@ PDF
 → Ollama LLM  
 → Answer
 
+```text
 ## Project structure 
 -local pdf-chat-rag-ollama-faiss/
     pdf_chat.py
@@ -40,6 +41,7 @@ PDF
     README.md
     data/
         └── put_your_pdf_here.txt
+```text
 
 ## Notes
 
