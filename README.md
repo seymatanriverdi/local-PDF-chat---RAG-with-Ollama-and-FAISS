@@ -33,7 +33,7 @@ PDF
 → Ollama LLM  
 → Answer
 
-```text
+
 ## Project structure 
 -local pdf-chat-rag-ollama-faiss/
     pdf_chat.py
@@ -42,7 +42,7 @@ PDF
     data/
         └── put_your_pdf_here.txt
 
-
+```text
 ## Notes
 
 This project runs locally using Ollama.  
