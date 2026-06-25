@@ -35,12 +35,14 @@ PDF
 
 
 ## Project structure 
--local pdf-chat-rag-ollama-faiss/
-    -pdf_chat.py
-    -requirements.txt
-    -README.md
-    -data/
-        └── -put_your_pdf_here.txt
+
+- `local pdf-chat-rag-ollama-faiss/`
+    - `pdf_chat.py`
+    - `requirements.txt`
+    - `README.md`
+    - `data/`
+    -     └──put_your_pdf_here.txt
+
 
 ```text
 ## Notes
