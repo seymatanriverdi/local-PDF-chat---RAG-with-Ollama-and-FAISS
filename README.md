@@ -41,7 +41,7 @@ PDF
     README.md
     data/
         └── put_your_pdf_here.txt
-```text
+
 
 ## Notes
 
