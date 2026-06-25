@@ -32,7 +32,8 @@ PDF
 → Retrieved Context  
 → Ollama LLM  
 → Answer
-##project structure 
+
+## Project structure 
 local pdf-chat-rag-ollama-faiss/
 │
 ├── pdf_chat.py
